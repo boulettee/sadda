@@ -1,0 +1,9 @@
+Time;29.01.24. 20:43:42 - 20.59.24;
+"MAC 
+attacker's address";08:00:27:b1:9d:67;
+MAC victim's address;08:00:27:fa:d3:d2;
+IP attacker;192.168.0.1;
+IP victim;192.168.0.100;
+Types of attacks;Man-in-the-Middle, MITM;
+CVE vulnerability;CVE-2023-50703;
+Target;network data interception;
